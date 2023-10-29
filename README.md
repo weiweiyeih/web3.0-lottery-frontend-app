@@ -2,7 +2,7 @@
 
 This is a decentralized lottery app built using Next.js and Web3.0 technologies. Users can participate in the lottery by purchasing tickets and have a chance to win prizes. The app interacts with a smart contract deployed on the Seploia Testnet.
 
-Demo:
+Demo: https://web3-lottery-frontend-app.vercel.app/
 
 ## Features
 
